@@ -21,7 +21,7 @@
 
 O código-fonte deste projeto está disponível no GitHub:
 
-* Link do repositório: URL do seu repositório
+* Link do repositório: [https://github.com/LABELLECANDIDO/ApiCovid19.github.io]
 
 # Instruções de uso:
 
@@ -30,13 +30,6 @@ O código-fonte deste projeto está disponível no GitHub:
 3. Insira a sigla do estado desejado no campo de texto.
 4. Clique no botão "Buscar".
 5. Os dados do estado serão exibidos na tabela.
-
-# Exemplo:
-
-Exemplo de uso do projeto: [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
-
-
-
 
 # Autora:
 
@@ -65,6 +58,6 @@ Exemplo de uso do projeto: [https://es.wiktionary.org/wiki/removido](https://es.
 
 # Deploy:
 
-- Projeto online: URL do seu projeto online
+- Projeto online: [https://api-covid19-alpha.vercel.app/]
 
 # Esperamos que este projeto seja útil!

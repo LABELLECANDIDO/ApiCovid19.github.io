@@ -12,7 +12,7 @@
       const response = await fetch(url);
   
       if (!response.ok) {
-        throw new Error("Erro ao buscar os dados da API");
+        throw new Error("Erro ao buscar os dados da API.");
       }
       const casos = await response.json();
 
