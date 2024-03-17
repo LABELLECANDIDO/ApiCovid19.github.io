@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Consumindo API Covid</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+<body>
+    <main class="container">
+        <h1 class="title">Dados da COVID-19</h1>
+        <div class="row">
+            <div class="inputbox">
+                <input type="text" id="estado" placeholder="digite a sigla do estado"  required>
+            </div>
+        </div>
+        <div class="row">
+            <button id="enviar">Salvar</button>
+        </div>
+
+        <h1>Dados da API</h1>
+        <table class="table" id="api-table">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Estado</th>
+              <th>Casos</th>
+              <th>Mortes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Os dados da API serão preenchidos aqui -->
+          </tbody>
+        </table>
+    </main>
+    <footer>
+        Informações sobre a pandemia da covid-19 no estados Brasileiros - Labelle C.
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
